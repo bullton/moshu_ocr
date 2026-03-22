@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+venv*/
+.venv/
+
+# OCR temp/test artifacts
+tmp_*.png
+sample_test.png
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
